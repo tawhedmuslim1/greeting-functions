@@ -1,0 +1,24 @@
+{
+  "name": "greeting-functions",
+  "description": "A simple package that says hello",
+  "version": "0.0.7",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "greeting",
+    "functions"
+  ],
+  "author": "ezzeldin",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  },
+  "packageAI": {
+    "verificationToken": "pkgai_069cvnngeavg_m8ovl0au"
+  }
+}

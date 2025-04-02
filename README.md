@@ -139,4 +139,4 @@ MIT © [ezzeldin]
 ## Links
 
 - [Homepage](https://bento.me/ezzeldin-mo)
-- [GitHub Repository](https://github.com/yourusername/greeting-functions)
+- [GitHub Repository](https://github.com/tawhedmuslim1/greeting-functions)
